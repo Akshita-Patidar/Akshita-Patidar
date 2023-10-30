@@ -11,11 +11,11 @@ My Tech Stack
 Here are some of the technologies and tools I work with:
 
 Languages
-Python
-Java
-JavaScript
-HTML5/CSS3
-Bootstrap
+•	Python
+•	Java
+•	JavaScript
+•	HTML5/CSS3
+•	Bootstrap
 
 Frameworks & Tools
 Node.js
